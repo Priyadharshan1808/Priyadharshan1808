@@ -28,6 +28,14 @@
 - Node.js
 - MySQL
 - Data Structures & Algorithms
+- Meraki (Switch and access point)
+- Fortinite (Switch and access point)
+- Servicenow
+- VELO - SDWAN
+- Networking 
+- Cisco 
+- Fortigate
+- Putty
 
 🚀 Working on
 
@@ -35,6 +43,14 @@
 - REST APIs
 - Portfolio Projects
 - GitHub Open Source Contributions
+- Meraki (Switch and access point)
+- Fortinite (Switch and access point)
+- Servicenow
+- VELO - SDWAN
+- Networking 
+- Cisco 
+- Fortigate
+- Putty
 
 🎯 Goal
 
@@ -46,15 +62,15 @@ Become a Software Engineer at a top product-based company.
 
 <p align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINK">
+<a href="https://linkedin.com/in/[[YOUR_LINK](https://www.linkedin.com/in/sm-priyadharshan-470084277/)]()">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/Priyadharshan1808">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:priyadharshan1705@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -130,9 +146,9 @@ Spring Boot REST API with MySQL.
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Priyadharshan1808&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyadharshan1808&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -142,7 +158,7 @@ Spring Boot REST API with MySQL.
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyadharshan1808&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -152,7 +168,7 @@ Spring Boot REST API with MySQL.
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Priyadharshan1808&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
@@ -187,7 +203,7 @@ Spring Boot REST API with MySQL.
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Priyadharshan1808&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 
 </p>
 
